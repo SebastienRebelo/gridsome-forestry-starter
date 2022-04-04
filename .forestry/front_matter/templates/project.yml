@@ -36,6 +36,5 @@ fields:
   default: now
   hidden: true
 pages:
-- projects/3d-graff.md
 - projects/chez-nono.md
 - projects/ios-concept.md
