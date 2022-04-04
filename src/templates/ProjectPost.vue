@@ -6,6 +6,9 @@
 
         <div class="project-header">
           <h1 class="project-title" v-html="$page.post.title" />
+        <div v-html="$page.post.content" class="content" />
+
+      </div>
           <div class="project-info">
 
             <div class="categories-container">
@@ -26,11 +29,6 @@
             </div>
           </div>
         </div>
-
-        <div v-html="$page.post.content" class="content" />
-
-      </div>
-
     </div>
   </Layout>
 </template>
