@@ -1,12 +1,11 @@
 ---
-thumbnail: "/uploads/cody-davis-253925-unsplash.jpg"
-title: Pineapple
+thumbnail: ''
+title: Chez Nono
 date: 2019-02-06
 categories:
-- photography
-- blue
-project_bg_color: "#EDEDED"
-project_fg_color: "#36B5EF"
+- e-commerce
+- prestashop
+project_bg_color: "#FFFFFF"
+project_fg_color: "#FFFFFF"
 
 ---
-![](/uploads/cody-davis-253925-unsplash.jpg)
