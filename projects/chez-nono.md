@@ -12,7 +12,7 @@ project_fg_color: ''
 ---
 ![](/uploads/cheznono-1.jpg)
 
-### Le Client : 
+### Le Client :
 
 **Chez Nono** est un restaurant-burger.
 
@@ -20,11 +20,13 @@ project_fg_color: ''
 
 Son projet était d'avoir sa propre web app, afin de fideliser le client. La demande était clair, un e-commerce simple pour l'utilisateur ainsi qu'une refonte graphique de son premier prestashop,
 
-### Mon rôle : 
+### Mon rôle :
 
 Un **prestashop** sur mesure était de mise afin de garder une identité visuel qui est propre a son restaurant et une optimisation mobile la plus simple possible afin que l'utilisateur puisse commander en ligne avec son **smartphone** sans soucis tout en sachant que l'age des clients de chez nono est tres vaste (15 à 68 ans !).
 
-### Stat de la web app : 
+![](/uploads/nono2-1.jpg)
+
+### Stat de la web app :
 
 **Chiffre d'affaire mensuel : +15K**
 
