@@ -6,7 +6,6 @@
 
         <div class="project-header">
           <h1 class="project-title" v-html="$page.post.title" />
-          
         <div v-html="$page.post.content" class="content" />
 
       </div>
@@ -61,11 +60,6 @@ export default {
 </script>
 
 <style scoped>
-.project .contain img
-{
-    margin-top: 33vh;
-
-}
 .project-header {
   padding: 20vh 0 4rem 0;
 }
