@@ -54,7 +54,7 @@ export default {
 }
 .category {
   margin-right: 0.8rem;
-  background-color: aqua;
+  color: #ffcc32;
 }
 .category:last-of-type {
   margin: 0;
