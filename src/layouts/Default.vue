@@ -20,6 +20,7 @@ export default {
 
 
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;700&display=swap');
 * {
   box-sizing: border-box;
 }
@@ -29,7 +30,7 @@ body {
   --color-base-1: rgb(243, 243, 243);
   --color-contrast: rgb(0, 0, 0);
   --color-contrast-1: rgb(43, 43, 43);
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-family: "poppins",sans-serif;
   margin:0;
   padding: 0;
   font-size: 16px;
