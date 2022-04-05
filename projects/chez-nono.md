@@ -1,7 +1,7 @@
 ---
 date: 2022-04-04
 thumbnail: ''
-title: Chez Nono
+title: "Chez Nono \U0001F354"
 categories:
 - e-commerce
 - prestashop
