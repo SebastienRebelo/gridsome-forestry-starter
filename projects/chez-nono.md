@@ -1,6 +1,6 @@
 ---
 date: 2022-04-04
-thumbnail: "/uploads/cheznono-1.jpg"
+thumbnail: ''
 title: 'Chez Nono '
 categories:
 - e-commerce
