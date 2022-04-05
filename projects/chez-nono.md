@@ -24,7 +24,7 @@ Son projet était d'avoir sa propre web app, afin de fideliser le client. La dem
 
 Un **prestashop** sur mesure était de mise afin de garder une identité visuel qui est propre a son restaurant et une optimisation mobile la plus simple possible afin que l'utilisateur puisse commander en ligne avec son **smartphone** sans soucis tout en sachant que l'age des clients de chez nono est tres vaste (15 à 68 ans !).
 
-![](/uploads/nono2.png)
+![](/uploads/nono2-2.jpg)
 
 ### Stat de la web app :
 
