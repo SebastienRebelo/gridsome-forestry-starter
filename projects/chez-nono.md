@@ -1,6 +1,6 @@
 ---
 date: 2022-04-04
-thumbnail: ''
+thumbnail: "/uploads/cheznono-1.jpg"
 title: "Chez Nono \U0001F354"
 categories:
 - e-commerce
