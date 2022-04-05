@@ -1,6 +1,6 @@
 ---
 thumbnail: ''
-title: "Rituel santé \U0001F33F"
+title: Rituel santé
 date: 2019-01-03
 categories:
 - shopify
